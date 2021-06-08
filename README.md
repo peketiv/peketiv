@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Veerendra
+- 👋 Hi, You can call me Veeru
 - 👀 I’m interested in Cloud technologies and security
 - 🌱 I’m currently learning Cloud Architecture & Solution Design
 - 💞️ I’m looking to collaborate on GIT
